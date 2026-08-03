@@ -49,4 +49,4 @@ http://localhost:3000
 Building this project taught me how a full-stack website works from start to finish — connecting a frontend, backend, and database together, and deploying it live on the internet.
 
 ## 👤 Author
-Made by **Rodney** — a 5th grader learning how to build real websites! 🎉
+Made by **Rodney Dabre** 🎉
