@@ -2,8 +2,8 @@
 
 A simple full-stack web app that helps you track your daily expenses — add, view, and delete spending, and see your total in real time.
 
-## 🚀 Live Demo
-[View the live app here](https://your-live-url.onrender.com) <!-- replace with your actual Render URL -->
+<!-- ## 🚀 Live Demo
+[View the live app here](https://your-live-url.onrender.com) replace with your actual Render URL -->
 
 ## ✨ Features
 - Add new expenses with a title, amount, category, and date
