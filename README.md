@@ -19,8 +19,8 @@ A simple full-stack web app that helps you track your daily expenses — add, vi
 - **Deployment:** Render
 
 ## 📸 Screenshot
-<!-- You can add a screenshot later like this: -->
-<!-- ![Expense Tracker Screenshot](screenshot.png) -->
+![Expense Tracker Screenshot](D:\Projects\Full Stack\expense-tracker\images\part1.png)
+![Expense Tracker Screenshot](D:\Projects\Full Stack\expense-tracker\images\part2.png)
 
 ## 🧑‍💻 How to Run It Locally
 
