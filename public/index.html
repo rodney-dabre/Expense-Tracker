@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My Expense Tracker</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <h1>💰 My Expense Tracker</h1>
+
+  <form id="expense-form">
+    <input type="text" id="title" placeholder="What did you buy?" required>
+    <input type="number" id="amount" placeholder="Amount ($)" step="0.01" required>
+    <select id="category">
+      <option value="Food">Food</option>
+      <option value="Travel">Travel</option>
+      <option value="Fun">Fun</option>
+      <option value="School">School</option>
+      <option value="Other">Other</option>
+    </select>
+    <input type="date" id="date" required>
+    <button type="submit">Add Expense</button>
+  </form>
+
+  <h2>Total Spent: $<span id="total">0</span></h2>
+
+  <ul id="expense-list"></ul>
+
+  <script src="script.js"></script>
+</body>
+</html>
